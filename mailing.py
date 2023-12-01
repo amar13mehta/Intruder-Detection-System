@@ -4,7 +4,7 @@ from email.message import EmailMessage
 
 
 def send_mail(image_path):
-    pwd = "dsdfqktintxcmlj"
+    pwd = "Your Key"
     host = "smtp.gmail.com"
     port = 465
     username = "amar13iam@gmail.com"
